@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "socket.io protocol parser",
   "dependencies": {
-    "component/json": "*",
+    "bestiejs/json3": "gh-pages",
     "visionmedia/debug": "*"
   },
   "scripts": [
